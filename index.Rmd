@@ -1,5 +1,5 @@
 ---
-title: "Tobi Burns"
+title: "Konrad Gryczan"
 image: "1.jpg"
 links:
   - label: LinkedIn
@@ -14,6 +14,6 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+Strona testująca hosting stron w github.
+
+# Hurra
